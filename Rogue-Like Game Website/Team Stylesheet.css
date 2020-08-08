@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: DarkGray;
+}
+body {
+  background-color: DarkGray;
+}
+
+.jumbotron a {
+  color: #111;
+}
+
+nav a {
+  color: #111;
+}
+
+ol {
+    list-style-position: inside;
+}
